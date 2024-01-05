@@ -32,6 +32,3 @@ Explore the endless possibilities of machine learning in image classification!
 ---
 
 [Go to Chinese README](README.md)
-```
-
-请注意，在实际的GitHub仓库中，你需要确保链接是正确的，并且`data/README.md`包含了对数据集的具体描述。
