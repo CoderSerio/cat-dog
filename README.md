@@ -32,4 +32,3 @@
 ---
 
 [前往英文版README](README_EN.md)
-```
